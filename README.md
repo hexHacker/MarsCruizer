@@ -4,6 +4,7 @@ Save the planet in the retro release ;)
 
 https://tinyurl.com/marscruize
 
+<br/>
 
 - Controls
 
@@ -11,7 +12,6 @@ https://tinyurl.com/marscruize
 
   Devices: tap sides to thrust left / right.  tap middle to thrust up and fire.
 
-<br/>
 <br/>
 <br/>
 <br/>
