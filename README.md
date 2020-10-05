@@ -7,9 +7,9 @@ https://tinyurl.com/marscruize
 
 - Controls
 
-Desktop: use arrow keys and space bar
+  Desktop: use arrow keys and space bar
 
-Devices: tap sides to thrust left / right.  tap middle to thrust up and fire.
+  Devices: tap sides to thrust left / right.  tap middle to thrust up and fire.
 
 <br/>
 <br/>
