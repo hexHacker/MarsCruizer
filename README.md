@@ -12,6 +12,7 @@ https://tinyurl.com/marscruize
 
   Devices: tap sides to thrust left / right.  tap middle to thrust up and fire.
 
+  'S' toggles sound.
 <br/>
 Created using p5.js.
 <br/>
