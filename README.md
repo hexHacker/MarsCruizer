@@ -1,6 +1,6 @@
 # MarsCruizer
 
-Save the planet in the retro release ;)
+Save the planet w/ this retro release ;)
 
 https://tinyurl.com/marscruize
 
