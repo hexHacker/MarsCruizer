@@ -14,7 +14,7 @@ https://tinyurl.com/marscruize
 
   'S' toggles sound.
 <br/>
-Created using p5.js.
+Created using p5.js, ES6.
 <br/>
 <br/>
 <br/>
